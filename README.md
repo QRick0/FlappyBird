@@ -64,7 +64,7 @@ This project helped me practice:
 
 📸 Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 💡 Future Improvements
 
