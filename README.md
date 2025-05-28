@@ -15,7 +15,7 @@ I created this project just for fun and to reinforce my understanding of Python 
 🚀 How to Run
 
 Clone the repository
-    git clone https://github.com/your-username/flappy-bird-clone.git
+    git clone https://github.com/QRick0/FlappyBird.git
     cd flappy-bird-clone
 
 Install dependencies
