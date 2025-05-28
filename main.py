@@ -52,7 +52,7 @@ while running:
     screen.blit(floor.fl_image, (floor.fl_pos, background.bg_image.get_height() - floor.fl_image.get_height()))
     screen.blit(floor.fl_image, (floor.fl_pos + floor.fl_image.get_width(), background.bg_image.get_height() - floor.fl_image.get_height()))
 
-    #Move background and floor
+    # Move background and floor
     background.bg_pos, background.bg_pos2 = background.move_background(background.bg_pos, background.bg_pos2, background.bg_move, background.bg_image)
     floor.fl_pos = floor.move_floor(floor.fl_pos, floor.fl_move)
 
